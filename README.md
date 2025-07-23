@@ -1,3 +1,4 @@
+<h1 align="center">Hi , I'm Andres <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
+  <a href="https://github.com/AndresFelipeLealVilla/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Data+Scientist;Competitive+Programmer;Always+learning+new+things"></a>
 </p>
