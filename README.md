@@ -12,6 +12,15 @@
 </tr></table>
 <hr/>
 
+<!-- LANGUAGE SELECTOR (visual) -->
+<table width="100%" align="center" ><tr>
+<td align="left"><a href="./README.md">🇬🇧 English</a></td>
+<td align="center"><a href="./README_Spanish.md">🇪🇸 Español</a>#programacion</td>
+<td align="center"><a href="./README.it.md">🇮🇹 Italiano</a></td>
+<td align="right"><a href="./README.pt.md">🇵🇹 Português</a></td>
+</tr></table>
+<hr/>
+
 
 <!-- NAVBAR: simple links to sections and folders -->
 [🏷️ Programación](#programacion) • [🧭 Proyectos](./projects) • [⚖️ DIH / DD.HH.](#dih--ddhh) • [📁 Evidencia (demos)](./demos) • [📫 Contacto](#contacto)
