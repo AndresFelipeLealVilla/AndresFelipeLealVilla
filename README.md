@@ -3,6 +3,16 @@
   <a href="https://github.com/AndresFelipeLealVilla/"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Data+Scientist;Competitive+Programmer;Always+learning+new+things"></a>
 </p>
 
+<!-- LANGUAGE SELECTOR (visual) -->
+<table width="100%"><tr>
+<td align="left"><a href="./README.md">🇬🇧 English</a></td>
+<td align="center"><a href="./README_Spanish.md">🇪🇸 Español</a></td>
+<td align="center"><a href="./README.it.md">🇮🇹 Italiano</a></td>
+<td align="right"><a href="./README.pt.md">🇵🇹 Português</a></td>
+</tr></table>
+<hr/>
+
+
 <!-- NAVBAR: simple links to sections and folders -->
 [🏷️ Programación](#programacion) • [🧭 Proyectos](./projects) • [⚖️ DIH / DD.HH.](#dih--ddhh) • [📁 Evidencia (demos)](./demos) • [📫 Contacto](#contacto)
 
