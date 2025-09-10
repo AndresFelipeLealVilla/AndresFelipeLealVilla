@@ -6,7 +6,7 @@
 <!-- ============================
      LANGUAGE SELECTOR (top)
      ============================ -->
-<table width="100%"><tr>
+<table width="100%" align="center"><tr>
 <td align="left"><a href="#en">🇬🇧 English</a></td>
 <td align="center"><a href="#es">🇪🇸 Español</a></td>
 <td align="center"><a href="#it">🇮🇹 Italiano</a></td>
